@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+            Writing Code That Makes Frontend Developers Smile
           </p>
           <div>
             <Link
@@ -63,7 +62,7 @@ const HeroSection = () => {
           transition={{ duration: 0.5 }}
           className="col-span-4 place-self-center mt-4 lg:mt-0"
         >
-          <div className="rounded-full bg-[#181818] w-[200px] h-[200px] lg:w-[400px] lg:h-[400px] relative">
+          <div className="rounded-full w-[200px] h-[200px] lg:w-[400px] lg:h-[400px] relative">
             <Image
               src="/images/image1.jpg"
               alt="hero image"

@@ -59,7 +59,7 @@ const EmailSection = () => {
           <Link href="https://github.com/mhakimsaputra17">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="https://linkedin.com/mhakimsaputra">
+          <Link href="https://linkedin.com/in/mhakimsaputra">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
         </div>
@@ -84,7 +84,7 @@ const EmailSection = () => {
                 id="email"
                 required
                 className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-                placeholder="jacob@google.com"
+                placeholder="johndoe@example.com"
               />
             </div>
             <div className="mb-6">
